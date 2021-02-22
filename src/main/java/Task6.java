@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Task6 {
-    //сделаю как написано, но я бы массив глобализовал)
+    //сделаю как написано, но я бы массив глобализовал), а в след задании тем более)))
     public static boolean checkBalance (int[] mas , int sum){
         int sumOfSomeElements = 0;
         for (int i = 0; i < mas.length; i++) {
